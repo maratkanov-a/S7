@@ -1,0 +1,14 @@
+# coding=utf-8
+PAGE_ACCESS_TOKEN="EAAZAu6VhdL4gBAMOHoVl2ZBbippjdjMzwGpr11V5UsVrJVbcDp4ZAAckYcW2K4NrG0XwjYQik7b3ZAJjnRZBZBZCiOAZBfiv4B78Q8Qjm851OcRC1e3alGJGRKbCNoYwariW2nIJBOYa0GDsZBF0ZAMyqs9KqRcQkYKqBa8Qz7yYcmQAZDZD"
+
+VERIFY_TOKEN = "myverifytoken"
+
+AMOUNT_OF_PHOTOS = 5
+
+URL_TO_WEB = 'http://imaged.co/imagepals'
+
+NUM_TREDS = 10
+
+DATABASE = './imagepals.db'
+
+URL = ''
